@@ -6,6 +6,8 @@
 
 Riptide is a sophisticated yet elegant web application designed to simulate floods all around the globe. Given a location, intensity and duration, Riptide can graphically demonstrate the various effects of a flood. With a user-focused design, anyone is able to learn about the population displaced, and total damage caused by inundation thanks to an intuitive and clean interface. Using topographical and population data from NASA Jet Propulsion Laboratory along with a custom made algorithm, Riptide generates a rendition of coordinates that describe the flow of water after a certain duration.
 
+Follow this link to our Riptide Presentation: https://docs.google.com/presentation/d/1RETNpOlutAkVhuFRoyFCiDfbgYqjcj9PlFVa9uu2xmI/edit?usp=sharing
+
 ### The team
 
 Front-End:
